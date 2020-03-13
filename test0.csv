@@ -1,0 +1,4 @@
+True_False,Task_Number,task_type,Customer,Contractor,Resources,Description,Start_Date,Due_date,Status
+yes,43524,Normal,Lol LLC,Mr. C,4,Lorem Ipsum,1/5/2012,3/20/2020,Incomplete
+yes,32543,High,Bla LLC,Mr. A,3,Lorem Ipsum un,1/6/2020,1/20/2020,Complete
+yes,34264,Low,Rawr LLC,Mrs. L,5,Lorem Ipsum Dos,3/11/2020,3/15/2020,In Progress

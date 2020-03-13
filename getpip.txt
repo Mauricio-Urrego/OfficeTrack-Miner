@@ -1,0 +1,5 @@
+#pip curl
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+#pip install
+python get-pip.py
