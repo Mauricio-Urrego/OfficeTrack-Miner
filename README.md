@@ -1,7 +1,7 @@
 #OfficeTrack-Scraper
 Author: Mauricio Urrego
-Github User: moorego
-www.github.com/moorego/OfficeTrack-Scraper
+Github User: Mauricio-Urrego
+www.github.com/Mauricio-Urrego/OfficeTrack-Scraper
 _______________________________
 
 For scraping data from OfficeTrack and preparing it for an sqlite database.
