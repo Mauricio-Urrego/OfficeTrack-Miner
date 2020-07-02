@@ -1,4 +1,4 @@
-#OfficeTrack-Scraper
+#OfficeTrack-Miner
 Author: Mauricio Urrego
 Github User: Mauricio-Urrego
 www.github.com/Mauricio-Urrego/OfficeTrack-Scraper
