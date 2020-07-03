@@ -27,8 +27,8 @@ The odbc connector is required for querying from sqlite database and reflecting 
 Excel formulas must also be updated to reflect new source.
 
 Requires ODBC Connector for Excel transformations
-Good open source option (download and github repo):
-http://www.ch-werner.de/sqliteodbc/
+Good open source option (download and github repo):  
+http://www.ch-werner.de/sqliteodbc/  
 https://github.com/softace/sqliteodbc
 
 Dependencies and libraries:
