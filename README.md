@@ -1,6 +1,6 @@
-#OfficeTrack-Miner
-Author: Mauricio Urrego
-Github User: Mauricio-Urrego
+#OfficeTrack-Miner  
+Author: Mauricio Urrego  
+Github User: Mauricio-Urrego  
 www.github.com/Mauricio-Urrego/OfficeTrack-Scraper
 _______________________________
 
